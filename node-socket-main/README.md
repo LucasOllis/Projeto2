@@ -1,4 +1,4 @@
-![Screenshot](Sistemas Distribuídos e Mobile.png)
+
 
 &#9989; <b>Requisistos</b>
 
