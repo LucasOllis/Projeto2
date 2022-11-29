@@ -1,14 +1,12 @@
-# node-socket
-
-## Requisistos
+&#9989; <b>Requisistos</b>
 
 * [NodeJs](https://nodejs.org/en/)
 
-## Bibliotecas
+&#128218; <b>Bibliotecas</b>
 
 * [ws](https://www.npmjs.com/package/ws) - Utilizada para criar um websocket
 
-## Instalação
+&#128736; <b>Instalação</b>
 
 1. Faça um clone desse repositório;
 2. Entre na pasta `cd node-socket`;
@@ -16,7 +14,7 @@
 
 
 
-## Execução
+&#128221; <b>Execução</b>
 
 Execute no terminal o seguinte comando para criar o servidor:
 
@@ -52,5 +50,13 @@ O melhor vendedor Carl total de compras foram de 5010 compras: [{"code":"0001","
 Melhor loja xiomi total de compras foram de 5010 compras: [{"code":"0001","seller":"Carl","store":"xiomi","date":"2022-11-30T03:00:00.000Z","ammount":5000},{"code":"0002","seller":"Carl","store":"xiomi","date":"2022-11-30T03:00:00.000Z","ammount":10}]
 -------------------------------------------------------------------------------------------------------
 ```
+
+&#128101; <b>Integrantes</b>
+
+  <p><b>Lucas Macedo de Oliveira - 1272118785</b></p>
+  <p><b>Victor Hugo Arruda Salles - 1272115787</b></p>
+  <p><b>Bruno Magalhães Cardoso - 1272115565</b></p>
+  <p><b>Wesley Wendel Melo Dos Santos - 1272115790</b></p>
+  <p><b>Victor Hugo cordeiro fucilieri - 1272123431</b></p>
 
 
